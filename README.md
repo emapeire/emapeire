@@ -1,16 +1,27 @@
-### Hi there 👋
+## Hello World 👋
 
-<!--
-**emapeire/emapeire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Eth](https://ethereum.org/static/28214bb68eb5445dcb063a72535bc90c/c3328/hero.png)
 
-Here are some ideas to get you started:
+### It's Ema! I'm *JavaScript Developer* & *Responsive Designer* | *Solidity* & *₿lockchain* enthusiastic
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ ***Specials facts*** ⚡
+
+- 🔭 I’m currently working on my own project called **`Ξ P H Ξ M Ξ R A L`**
+
+- 🌱 I’m learning dedicatedly **HTML**, **CSS**, **JavaScript**, **Mongo DB**, **Node**, **React** and of course **Git**
+
+- ✨ My goals are to become a **Blockchain Developer** and I would like to create an awesome **DApp**
+
+- 👯 I’m looking to collaborate in a **Web3.0** community
+
+### Connect with me:
+
+<a href="https://www.linkedin.com/in/emanuelpeire/">
+<img align="left" alt="Emanuel Peire LinkedIN" width="24px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
+</a>
+<a href="https://www.twitter.com/ephemeral_eth/">
+<img align="left" alt="Emanuel Peire Twitter" width="24px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
+</a>
+<a href="https://www.instagram.com/ephemeral_eth/">
+<img align="left" alt="Emanuel Peire Instagram" width="24px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" />
+</a>
