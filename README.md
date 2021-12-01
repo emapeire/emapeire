@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-![Eth](https://ethereum.org/static/28214bb68eb5445dcb063a72535bc90c/c3328/hero.png)
+![ETH](https://ethereum.org/static/28214bb68eb5445dcb063a72535bc90c/c3328/hero.png)
 
 ### It's Ema! I'm *JavaScript Developer* & *Responsive Designer* | *Solidity* & *₿lockchain* enthusiastic
 
@@ -25,3 +25,10 @@
 <a href="https://www.instagram.com/ephemeral_eth/">
 <img align="left" alt="Emanuel Peire Instagram" width="24px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" />
 </a>
+<!--
+<br/>
+
+---
+
+![Ema's github stats](https://github-readme-stats.vercel.app/api?username=emapeire&show_icons=true&hide_border=true)
+![Ema's most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=emapeire&show_icons=true&locale=en&layout=compact) -->
