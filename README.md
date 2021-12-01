@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on my own project called **`Ξ P H Ξ M Ξ R A L`**
 
-- 🌱 I’m dedicatedly learning **HTML**, **CSS**, **JavaScript**, **Mongo DB**, **Node**, **React** and of course **Git**
+- 🌱 I’m dedicatedly learning **HTML**, **CSS**, **JavaScript**, **Mongo DB**, **Node**, **React** and **Git** of course
 
 - ✨ My goals are to become a **Blockchain Developer** and I would like to create an awesome **DApp**
 
