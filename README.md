@@ -2,7 +2,7 @@
 
 ![ETH](https://ethereum.org/static/28214bb68eb5445dcb063a72535bc90c/c3328/hero.png)
 
-### It's Ema! I'm *JavaScript Developer* & *Responsive Designer* / *Solidity* & *₿lockchain* enthusiastic
+### It's Ema! I'm a *JavaScript Developer* & *Responsive Designer* / *Solidity* & *₿lockchain* enthusiastic
 
 ⚡ ***Specials facts*** ⚡
 
@@ -12,7 +12,7 @@
 
 - ✨ My goals are to become a **Blockchain Developer** and I would like to create an awesome **DApp**
 
-- 👯 I’m looking to collaborate in a **Web3.0** community
+- 👯 I’m looking forward to collaborate in a **Web3.0** community
 
 ### Connect with me:
 
