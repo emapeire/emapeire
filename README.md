@@ -2,7 +2,7 @@
 
 ![ETH](https://ethereum.org/static/28214bb68eb5445dcb063a72535bc90c/c3328/hero.png)
 
-### It's Ema! I'm a *JavaScript Developer* & *Responsive Designer* / *Solidity* & *₿lockchain* enthusiastic
+### It's Ema! I'm a *JavaScript Developer* & *Responsive Designer* / *₿lockchain* enthusiastic
 
 ⚡ ***Specials facts*** ⚡
 
