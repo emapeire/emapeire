@@ -6,11 +6,11 @@
 
 ⚡ ***Specials facts*** ⚡
 
-- 🔭 I’m currently working on my own project called **`Ξ P H Ξ M Ξ R A L`**
+- 🔭 I’m currently working on my own project called **` R O S H O D L `**
 
-- 🌱 I’m dedicatedly learning **HTML**, **CSS**, **JavaScript**, **Mongo DB**, **Node**, **React** and **Git** for sure
+- 🌱 I’m dedicatedly learning **HTML**, **CSS**, **JavaScript**, **Mongo DB**, **Node**, **React**, **Git** and **Blockchain technologies** for sure
 
-- ✨ My goals are to become a **Blockchain Developer** and I would like to create an awesome **DApp**
+- ✨ My goals are to become a **Blockchain Developer** and I would like to create an awesomes **Ecosystems**
 
 - 👯 I’m looking forward to collaborate in a **Web3.0** community
 
@@ -19,10 +19,10 @@
 <a href="https://www.linkedin.com/in/emanuelpeire/">
 <img align="left" alt="Emanuel Peire LinkedIN" width="24px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a>
-<a href="https://www.twitter.com/ephemeral_eth/">
+<a href="https://www.twitter.com/hybridhodler/">
 <img align="left" alt="Emanuel Peire Twitter" width="24px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
 </a>
-<a href="https://www.instagram.com/ephemeral.eth/">
+<a href="https://www.instagram.com/emapeire.eth/">
 <img align="left" alt="Emanuel Peire Instagram" width="24px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" />
 </a>
 <!--
