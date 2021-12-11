@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-![ETH](https://ethereum.org/static/28214bb68eb5445dcb063a72535bc90c/c3328/hero.png)
+![ETH](https://ethereum.org/static/28214bb68eb5445dcb063a72535bc90c/9019e/hero.webp)
 
 ### It's Ema! I'm a *JavaScript Developer* & *Responsive Designer* / *₿lockchain* enthusiastic
 
