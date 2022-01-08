@@ -6,7 +6,7 @@
 
 ⚡ ***Specials facts*** ⚡
 
-- 🔭 I’m currently working on my own project called **` R O S H O D L `**
+- 🔭 I’m currently working on my own project called **` H O D L E R • R O S `**
 
 - 🌱 I’m dedicatedly learning **HTML**, **CSS**, **JavaScript**, **Mongo DB**, **Node**, **React**, **Git** and **Blockchain technologies** for sure
 
