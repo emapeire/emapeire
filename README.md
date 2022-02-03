@@ -2,13 +2,13 @@
 
 ![ETH](https://ethereum.org/static/28214bb68eb5445dcb063a72535bc90c/9019e/hero.webp)
 
-### It's Ema! I'm a JavaScript-Solidity developer & Responsive designer | ₿lockchain researcher & Cybersecurity enthusiast
+### It's Ema! I'm a JavaScript & Solidity developer | Designer | Blockchain researcher | Cybersecurity enthusiast
 
 ⚡ ***Specials facts*** ⚡
 
 - 🔭 I’m currently working on my own project called **` H O D L E R • R O S `**
 
-- 🌱 I’m dedicatedly learning **HTML**, **CSS**, **JavaScript**, **Mongo DB**, **Node**, **React**, **Git** and **Blockchain technologies** for sure
+- 🌱 I’m dedicatedly learning **HTML** | **CSS** | **mongo DB** | **node.js** | **react.js** | **Git** and **Blockchain technologies** for sure
 
 - ✨ My goals are to become a **Blockchain Developer** and I would like to create an awesomes **Ecosystems**
 
