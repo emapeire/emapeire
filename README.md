@@ -6,7 +6,7 @@
 
 ⚡ ***Specials facts*** ⚡
 
-- 🔭 I’m currently working on my own project called **` Schism HQ `**
+- 🔭 I’m currently working on my own project called <a href="https://linktr.ee/SchismHQ">**Schism HQ**</a>
 
 - 🌱 I’m dedicatedly learning how to create **smart contracts** with **node.js**, **HardHat**, **Infura**, **MetaMask** and **ethers.js**
 
