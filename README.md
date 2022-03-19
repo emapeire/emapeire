@@ -6,11 +6,11 @@
 
 ⚡ ***Specials facts*** ⚡
 
-- 🔭 I’m currently working on my own project called **` H O D L E R • R O S `**
+- 🔭 I’m currently working on my own project called **` Schism HQ `**
 
-- 🌱 I’m dedicatedly learning **HTML** | **CSS** | **mongo DB** | **node.js** | **react.js** | **Git** and **Blockchain technologies** for sure
+- 🌱 I’m dedicatedly learning how to create **smart contracts** with **node.js**, **HardHat**, **Infura**, **MetaMask** and **ethers.js**
 
-- ✨ My goals are to become a **Blockchain Developer** and I would like to create an awesomes **Ecosystems**
+- ✨ My goals are to become a **Blockchain Developer** and I would like to create an awesomes **DeFi ecosystems**
 
 - 👯 I’m looking forward to collaborate in a **Web3.0** community
 
