@@ -3,11 +3,11 @@
 ![ETH](https://ethereum.org/static/28214bb68eb5445dcb063a72535bc90c/9019e/hero.webp)
 
 ## It's Ema! 🧑
-### I'm a DeFi & Blockchain Researcher | Content Developer & Web3 Writer | JavaScript & Solidity Developer | Cybersecurity Enthusiast
+### I'm a DeFi & Blockchain Researcher | Web3 Content Developer | JavaScript & Solidity Dev
 
 ⚡ ***Specials facts*** ⚡
 
-- 🔭 I’m currently working on my own project called <a href="https://linktr.ee/SchismHQ">**Schism HQ**</a>
+- 🔭 I’m currently working on my own project called <a href="https://linktr.ee/fsocietyok">**fsociety**</a>
 
 - 🌱 I’m dedicatedly learning **Solidity** and how to create **Smart Contracts**. <br/>
 
