@@ -3,7 +3,7 @@
 ![ETH](https://ethereum.org/static/28214bb68eb5445dcb063a72535bc90c/9019e/hero.webp)
 
 ## It's Ema! 🧑
-### I'm a DeFi & Blockchain Researcher | Web3 Content Developer | JavaScript & Solidity Dev
+### I'm a DeFi & Blockchain Researcher | Web3 Content Developer | JavaScript & Solidity Dev in progress
 
 ⚡ ***Specials facts*** ⚡
 
