@@ -7,7 +7,7 @@
 
 ⚡ ***Specials facts*** ⚡
 
-- 🔭 I’m currently working on my own project called <a href="https://linktr.ee/fsocietyok">**fsociety**</a>
+- 🔭 I’m currently working on my own project called <a href="https://linktr.ee/EtherSci">**EtherSci**</a>
 
 - 🌱 I’m dedicatedly learning **Solidity** and how to create **Smart Contracts**. <br/>
 
