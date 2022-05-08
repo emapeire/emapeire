@@ -11,7 +11,7 @@
 
 - 🌱 I’m dedicatedly learning **Solidity** and how to create **Smart Contracts**. <br/>
 
-- 🧠 I have knowledge in: **React.js** | **Node.js** | **Ethers.js** | **Chai** | **Waffle** | **HardHat** | **Infura** | **MetaMask**
+- 🧠 I have knowledge in: **React.js** | **Node.js** | **Express** | **MongoDB** | **Ethers.js** | **Chai** | **Waffle** | **HardHat** | **Infura** | **MetaMask**
 
 - ✨ My goals are to **work** in the **DeFi industry** and become a **key player** in the **ecosystem**.
 
