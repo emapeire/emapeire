@@ -22,7 +22,7 @@
 <a href="https://www.linkedin.com/in/emanuelpeire/">
 <img align="left" alt="Emanuel Peire LinkedIN" width="24px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a>
-<a href="https://www.twitter.com/its0xEma/">
+<a href="https://www.twitter.com/emarolls/">
 <img align="left" alt="Emanuel Peire Twitter" width="24px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
 </a>
 <a href="https://www.instagram.com/emapeire.eth/">
