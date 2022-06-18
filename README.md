@@ -12,10 +12,11 @@
 ➤ 🌱 I’m dedicatedly learning ***Open Source Technologies***. Precisely ***Python*** right now. <br/>
 
 ➤ 🧠 Also I have knowledge in: 
-- **HTML** | **CSS** | **JavaScript**
-- **React.js** | **Node.js** | **Express** | **MongoDB**
-- **Solidity** | **Ethers.js** | **Chai** | **Waffle** | **HardHat** | **Infura** | **Alchemy** | **MetaMask**
-- **Windows PowerShell** | **Linux ZSH**
+- **WEB 2:** HTML | CSS | JavaScript | React.js | Node.js | Express | MongoDB | Chai | Waffle.
+- **WEB 3:** Solidity | Ethers.js | HardHat | Infura | Alchemy | MetaMask.
+- **DESIGN:** Adobe Photoshop and Illustrator | Figma | Miró | Notion | WordPress.
+- **TOOLS:** Git (Bash) | VSC & Atom (code editors).
+- **OS:** Windows Terminal (PowerShell) | Linux (Ubuntu, Debian, Kali) Terminal (ZSH).
 
 ➤ ✨ My goal is to work as a ***Software Developer*** *( future engineer )*.
 
