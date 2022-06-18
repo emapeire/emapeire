@@ -3,19 +3,20 @@
 ![ETH](https://ethereum.org/static/28214bb68eb5445dcb063a72535bc90c/9019e/hero.webp)
 
 ## It's Ema! 🧑
-### I'm a DeFi & Blockchain Researcher | Web3 Content Developer | Full Stack Web3 Engineer in progress
+### I'm a Open Source Dev | Blockchain Researcher
 
 ⚡ ***Specials facts*** ⚡
 
 - 🔭 I’m currently working on my own project called <a href="https://linktr.ee/EtherSci">**EtherSci**</a>
 
-- 🌱 I’m dedicatedly learning **Solidity** and how to create **Smart Contracts**. <br/>
+- 🌱 I’m dedicatedly learning ***Open Source Technologies*** like ***Python***. <br/>
 
-- 🧠 I have knowledge in: **React.js** | **Node.js** | **Express** | **MongoDB** | **Ethers.js** | **Chai** | **Waffle** | **HardHat** | **Infura** | **MetaMask**
+- 🧠 Also I have knowledge in: ***HTML** | **CSS** | **JavaScript** | **React.js** | **Node.js** | **Express** | **MongoDB** | **Ethers.js** | **Chai** | **Waffle** | **HardHat** | **Infura** | **Alchemy** | **MetaMask** | **Git** | **WIN & Linux Terminal***
 
-- ✨ My goals are to **work** in the **DeFi industry** and become a **key player** in the **ecosystem**.
+- ✨ My goal is to work as a ***Software Developer***.
 
-- 👯 I’m looking forward to collaborate in a **Web3** community
+- 👯 I’m looking forward to collaborate in a ***Web3*** community
+
 ---
 ### Connect with me:
 
