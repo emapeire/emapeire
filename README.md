@@ -11,7 +11,7 @@
 
 - 🌱 I’m dedicatedly learning ***Open Source Technologies*** like ***Python***. <br/>
 
-- 🧠 Also I have knowledge in: **HTML** | **CSS** | **JavaScript** | **React.js** | **Node.js** | **Express** | **MongoDB** | **Ethers.js** | **Chai** | **Waffle** | **HardHat** | **Infura** | **Alchemy** | **MetaMask** | **Git** | **VSC & Atom** | **WIN & Linux Terminal**
+- 🧠 Also I have knowledge in: **HTML** | **CSS** | **JavaScript** | **React.js** | **Node.js** | **Express** | **MongoDB** | **Ethers.js** | **Chai** | **Waffle** | **HardHat** | **Infura** | **Alchemy** | **MetaMask** | **Linux**
 
 - ✨ My goal is to work as a ***Software Developer***.
 
