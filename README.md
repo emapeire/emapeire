@@ -25,13 +25,13 @@
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/emanuelpeire/">
-<img align="left" alt="Emanuel Peire LinkedIN" width="24px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
+<img align="left" alt="Emanuel Peire LinkedIN" width="24px" target="_black" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a>
 <a href="https://www.twitter.com/emapeire/">
-<img align="left" alt="Emanuel Peire Twitter" width="24px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
+<img align="left" alt="Emanuel Peire Twitter" width="24px" target="_black" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
 </a>
 <a href="https://www.instagram.com/emapeire.eth/">
-<img align="left" alt="Emanuel Peire Instagram" width="24px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" />
+<img align="left" alt="Emanuel Peire Instagram" width="24px" target="_black" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" />
 </a>
 <br/>
 <hr/>
