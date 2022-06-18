@@ -9,7 +9,7 @@
 
 ➤ 🔭 I’m currently working on my own project called <a href="https://linktr.ee/EtherSci">**EtherSci**</a>
 
-➤ 🌱 I’m dedicatedly learning ***Open Source Technologies*** like ***Python***. <br/>
+➤ 🌱 I’m dedicatedly learning ***Open Source Technologies***. Precisely ***Python*** right now. <br/>
 
 ➤ 🧠 Also I have knowledge in: 
 - **HTML** | **CSS** | **JavaScript**
