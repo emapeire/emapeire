@@ -7,15 +7,19 @@
 
 ⚡ ***Specials facts*** ⚡
 
-- 🔭 I’m currently working on my own project called <a href="https://linktr.ee/EtherSci">**EtherSci**</a>
+➤ 🔭 I’m currently working on my own project called <a href="https://linktr.ee/EtherSci">**EtherSci**</a>
 
-- 🌱 I’m dedicatedly learning ***Open Source Technologies*** like ***Python***. <br/>
+➤ 🌱 I’m dedicatedly learning ***Open Source Technologies*** like ***Python***. <br/>
 
-- 🧠 Also I have knowledge in: **HTML** | **CSS** | **JavaScript** | **React.js** | **Node.js** | **Express** | **MongoDB** | **Ethers.js** | **Chai** | **Waffle** | **HardHat** | **Infura** | **Alchemy** | **MetaMask** | **Linux**
+➤ 🧠 Also I have knowledge in: 
+- **HTML** | **CSS** | **JavaScript**
+- **React.js** | **Node.js** | **Express** | **MongoDB**
+- **Solidity** | **Ethers.js** | **Chai** | **Waffle** | **HardHat** | **Infura** | **Alchemy** | **MetaMask**
+- **Windows PowerShell** | **Linux ZSH**
 
-- ✨ My goal is to work as a ***Software Developer***.
+➤ ✨ My goal is to work as a ***Software Developer*** *( future engineer )*.
 
-- 👯 I’m looking forward to collaborate in a ***Web3*** community
+➤ 👯 I’m looking forward to collaborate in a ***Web3*** community
 
 ---
 ### Connect with me:
