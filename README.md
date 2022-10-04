@@ -40,10 +40,12 @@
 <img align="left" alt="Emanuel Peire Instagram" width="24px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" />
 </a>
 <br/>
-<hr/>
 
+<!-- 
+<hr/>
 ### Stats!
 
 ![Ema's github stats](https://github-readme-stats.vercel.app/api?username=emapeire&show_icons=true&hide_border=false&theme=dark&hide=contribs,prs)
 <br/>
 ![Ema's most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=emapeire&show_icons=true&locale=en&theme=dark&layout=compact)
+-->
