@@ -3,7 +3,7 @@
 ![Prism](https://user-images.githubusercontent.com/63935846/193309296-45cdd09d-e301-456c-8141-45f2761c894e.png)
 
 ## I'm Emanuel Peire 🧑
-### Open Source Dev | Blockchain Researcher
+### QA & FrontEnd Developer | Blockchain Researcher
 
 ⚡ ***Specials facts*** ⚡
 
@@ -13,7 +13,7 @@
 
 ➤ 🧠 Also I have knowledge in:
 
-- **WEB 2:** HTML5 | CSS3 | JavaScript (Node.js, Express, Chai, React.js / JSX, MongoDB) | Python3 (Anaconda3) | SQL (MySQL, PostgreSQL) | Jupyter Notebook | Apache Server | Docker and Kubernetes (AWS and Google Cloud).
+- **WEB 2:** HTML5 | CSS3 | JavaScript (Node.js, Express, Chai, React.js / JSX, MongoDB) | Python3 (Anaconda3) | SQL (MySQL, PostgreSQL) | Jupyter Notebook | Apache Server | Docker and Kubernetes (AWS and Google Cloud) | PlayWright | TDD
 
 - **WEB 3:** Solidity | Hardhat | Ethers.js | Infura | Alchemy | Waffle | Metamask APIs.
 
