@@ -3,7 +3,7 @@
 ![Prism](https://user-images.githubusercontent.com/63935846/193309296-45cdd09d-e301-456c-8141-45f2761c894e.png)
 
 ## I'm Emanuel Peire 🧑
-### QA & FrontEnd Developer | Blockchain Researcher
+### Testing QA & FrontEnd Developer | Blockchain Researcher
 
 ⚡ ***Specials facts*** ⚡
 
