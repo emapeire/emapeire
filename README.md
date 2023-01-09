@@ -7,7 +7,7 @@
 
 ⚡ ***Specials facts*** ⚡
 
-➤ 🔭 I’m currently working on my own project called <a href="https://linktr.ee/EtherSci">**EtherSci**</a>
+➤ 🔭 I’m currently working on my own project called <a href="https://twitter.com/nxblxcks"> **NXBLXCKS** </a>
 
 ➤ 🌱 I’m dedicatedly learning ***Open Source Technologies***.
 
