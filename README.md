@@ -1,8 +1,5 @@
-## Hey there! 👋
+## Hey there! 👋 I'm Emanuel Peire
 
-![Prism](https://user-images.githubusercontent.com/63935846/193309296-45cdd09d-e301-456c-8141-45f2761c894e.png)
-
-## I'm Emanuel Peire 🧑
 ### Testing QA & FrontEnd Developer | Blockchain Researcher
 
 ⚡ ***Specials facts*** ⚡
@@ -40,11 +37,3 @@
 <img align="left" alt="Emanuel Peire Instagram" width="24px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" />
 </a>
 <br/>
-
-<!--
-<hr/>
-
-### Stats!
-
-![emapeire's github stats](https://github-readme-stats.vercel.app/api?username=emapeire&show_icons=true&hide_border=true)
--->
