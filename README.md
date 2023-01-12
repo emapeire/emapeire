@@ -1,6 +1,6 @@
 ## Hey there! 👋 I'm Emanuel Peire
 
-### Testing QA & FrontEnd Developer | Blockchain Researcher
+### Tester QA & FrontEnd Developer | Blockchain & AI Researcher
 
 ⚡ ***Specials facts*** ⚡
 
