@@ -4,7 +4,7 @@
 
 ⚡ ***Specials facts*** ⚡
 
-➤ 🔭 I’m currently working on my own project <a href="https://twitter.com/nxblxcks"> **NXBLXCKS** </a>
+➤ 🔭 I’m currently working on my own project <a href="https://twitter.com/ReconnextAI"> **RECONNEXT** </a>
 
 ➤ 🌱 I’m dedicatedly learning ***Open Source Technologies***.
 
