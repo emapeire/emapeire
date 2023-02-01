@@ -10,11 +10,11 @@
 
 ➤ 🧠 Also I have knowledge in:
 
-- **Web tools:** HTML5 | CSS3 | JavaScript | Node.js | Express | React | MongoDB | Python3 (Anaconda3) | SQL (MySQL, PostgreSQL) | Jupyter Notebook | Apache Server | Docker and Kubernetes (AWS and Google Cloud) | Playwright | Chai | Jest | Mocha | API Rest | Solidity | Hardhat | Ethers.js | Infura | Alchemy | Waffle | Metamask APIs.
+- **Web tools:** HTML5 | CSS3 | JavaScript | Node.js | Express | React | MongoDB | Python3 (Anaconda3) | SQL (MySQL, PostgreSQL) | Jupyter Notebook | Apache Server | Docker and Kubernetes (AWS and Google Cloud) | Playwright | Chai | Jest | Mocha | API Rest | Solidity | Hardhat | Ethers.js | Infura | Alchemy | Waffle | Metamask APIs | React-Native | Java (Kotlin).
 
 - **Design tools:** Adobe Photoshop and Illustrator | Figma | Miró | Notion | WordPress | Canva.
 
-- **Environment tools:** Git (Bash) | Visual Studio Code | Google Docs and Microsoft Office.
+- **Environment tools:** Git (Bash) | Visual Studio Code | Xcode | Android Studio | Google Docs and Microsoft Office.
 
 - **Operating Systems:** Microsoft Windows 11 (PowerShell) | GNU/Linux (Ubuntu 22, Debian 11, Kali 5) (ZSH) | MacOS 13 (ZSH) | Virtual Box (Oracle and Hyper-V).
 
