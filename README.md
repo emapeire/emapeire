@@ -31,7 +31,7 @@
 <a href="https://www.twitter.com/emapeire/">
 <img align="left" alt="Emanuel Peire Twitter" width="24px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
 </a>
-<a href="https://www.instagram.com/emapeire.eth/">
+<a href="https://www.instagram.com/emapeire/">
 <img align="left" alt="Emanuel Peire Instagram" width="24px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" />
 </a>
 <br/>
