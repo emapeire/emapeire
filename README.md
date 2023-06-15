@@ -1,6 +1,6 @@
 ## Hey there! 👋 I'm Emanuel Peire
 
-### QA Tester & FrontEnd Developer | Blockchain & AI Researcher
+### QA Tester & FrontEnd Developer | Blockchain & ML Researcher
 
 ⚡ ***Specials facts*** ⚡
 
@@ -10,7 +10,7 @@
 
 ➤ 🧠 Also I have knowledge in:
 
-- **Web tools:** HTML5 | CSS3 | JavaScript | TypeScript | Node.js | Express | React | MongoDB | Python3 (Anaconda3) | SQL (MySQL, PostgreSQL) | Jupyter Notebook | Apache Server | Docker and Kubernetes (AWS and Google Cloud) | Playwright | Chai | Jest | Mocha | API Rest | Solidity | Hardhat | Ethers.js | Infura | Alchemy | Waffle | Metamask APIs | React-Native | Java (Kotlin).
+- **Web tools:** HTML5 | CSS3 | JavaScript | TypeScript | Node.js | Express | React | MongoDB | Python3 (Anaconda3) | SQL (MySQL, PostgreSQL) | Jupyter Notebook | Apache Server | Docker and Kubernetes (AWS and Google Cloud) | Playwright | Chai | Jest | Vitest | Mocha | API Rest | Solidity | Hardhat | Ethers.js | Infura | Alchemy | Waffle | Metamask APIs | React-Native | Java (Kotlin).
 
 - **Design tools:** Adobe Photoshop and Illustrator | Figma | Miró | Notion | WordPress | Canva.
 
@@ -18,7 +18,7 @@
 
 - **Operating Systems:** Microsoft Windows 11 (PowerShell) | GNU/Linux (Ubuntu 22, Debian 11, Kali 5) (ZSH) | MacOS 13 (ZSH) | Virtual Box (Oracle and Hyper-V).
 
-➤ ✨ My goal is to work as a ***Software Developer specialized in Artificial Intelligence***.
+➤ ✨ My goal is to work as a ***Software Architect***.
 
 ➤ 👯 I’m looking forward to collaborate in a ***Open Source community***.
 
