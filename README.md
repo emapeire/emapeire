@@ -10,7 +10,7 @@
 
 ➤ 🧠 Also I have knowledge in:
 
-- **Web tools:** ***HTML5*** | ***CSS3*** | ***JavaScript*** | ***TypeScript*** | ***Node.js*** | ***Express*** | ***React.js*** | ***React Native*** | ***MongoDB*** | ***Python 3*** (Anaconda 3) | SQL (MySQL, ***PostgreSQL***) | Jupyter Notebook | Apache Server | Docker and Kubernetes (AWS and Google Cloud) | ***Playwright*** | ***Chai*** | ****Jest*** | ***Vitest*** | ***Mocha*** | API Rest | Solidity | Hardhat | Ethers.js | Infura | Alchemy | Waffle | Metamask APIs | Java (Kotlin).
+- **Web tools:** ***HTML5*** | ***CSS3*** | ***JavaScript*** | ***TypeScript*** | ***Node.js*** | ***Express*** | ***React.js*** | ***React Native*** | ***MongoDB*** | ***Python 3*** (Anaconda 3) | SQL (MySQL, ***PostgreSQL***) | Jupyter Notebook | Apache Server | Docker and Kubernetes (AWS and Google Cloud) | ***Playwright*** | ***Chai*** | ***Jest*** | ***Vitest*** | ***Mocha*** | API Rest | Solidity | Hardhat | Ethers.js | Infura | Alchemy | Waffle | Metamask APIs | Java (Kotlin).
 
 - **Design tools:** ***Adobe Photoshop and Illustrator*** | ***Figma*** | ***Miró*** | ***Notion*** | WordPress | Canva.
 
