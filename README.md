@@ -4,7 +4,7 @@
 
 ⚡ ***Specials facts*** ⚡
 
-➤ 🔭 I’m currently working on my own project <a href="https://twitter.com/EPLabsDev"> ***EP LABS*** </a>
+➤ 🔭 I’m currently working on my own project <a href="https://twitter.com/eplabs_dev"> ***EP LABS*** </a>
 
 ➤ 🌱 I’m dedicatedly learning ***Software Development***.
 
