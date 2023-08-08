@@ -2,7 +2,7 @@
 
 ### Dev & Machine Learning Researcher
 
-⚡ ***Specials facts*** ⚡
+🚀 **Highlights** 🚀
 
 ➤ 🔭 I'm currently immersed in my self-driven project called <a href="https://twitter.com/ep_labs"> ***EP LABS*** </a>
 
