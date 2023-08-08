@@ -1,6 +1,6 @@
-## Hey there! 👋 I'm Emanuel Peire
+## Welcome to My GitHub Profile! 👋 I'm Emanuel Peire
 
-### QA Tester & FrontEnd Developer | Blockchain & ML Researcher
+### Dev | Machine Learning Researcher
 
 ⚡ ***Specials facts*** ⚡
 
