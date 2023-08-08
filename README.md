@@ -4,9 +4,9 @@
 
 🚀 **Highlights** 🚀
 
-➤ 🔭 I'm currently immersed in my self-driven project called <a href="https://twitter.com/ep_labs"> ***EP LABS*** </a>
+➤ 🔭 I'm currently immersed in my self-driven project called <a href="https://twitter.com/ep_labs"> **EP LABS** </a>
 
-➤ 🌱 I am deeply engaged in honing my skills in the realm of ***Software Development***.
+➤ 🌱 I am deeply engaged in honing my skills in the realm of **Software Development**.
 
 ➤ 🧠 Proficient in:
 
@@ -37,9 +37,9 @@
 | Vitest                      |                                          |                                       |                                            |
 
 
-➤ ✨ My aspiration is to evolve into a seasoned ***Software Architect***.
+➤ ✨ My aspiration is to evolve into a seasoned **Software Architect**.
 
-➤ 👯 I eagerly anticipate collaborating within the ***Open Source community***.
+➤ 👯 I eagerly anticipate collaborating within the **Open Source community**.
 
 ---
 
