@@ -4,11 +4,11 @@
 
 ⚡ ***Specials facts*** ⚡
 
-➤ 🔭 I’m currently working on my own project <a href="https://twitter.com/ep_labs"> ***EP LABS*** </a>
+➤ 🔭 I'm currently immersed in my self-driven project called <a href="https://twitter.com/ep_labs"> ***EP LABS*** </a>
 
-➤ 🌱 I’m dedicatedly learning ***Software Development***.
+➤ 🌱 I am deeply engaged in honing my skills in the realm of ***Software Development***.
 
-➤ 🧠 Also I have knowledge in:
+➤ 🧠 Proficient in:
 
 - **Web tools:** ***HTML5*** | ***CSS3*** | ***JavaScript*** | ***TypeScript*** | ***Node.js*** | ***Express*** | ***React.js*** | ***React Native*** | ***MongoDB*** | ***Python 3*** (Anaconda 3) | SQL (MySQL, ***PostgreSQL***) | Jupyter Notebook | Apache Server | Docker and Kubernetes (AWS and Google Cloud) | ***Playwright*** | ***Chai*** | ***Jest*** | ***Vitest*** | ***Mocha*** | API Rest | Solidity | Hardhat | Ethers.js | Infura | Alchemy | Waffle | Metamask APIs | Java (Kotlin).
 
@@ -18,12 +18,12 @@
 
 - **Operating Systems:** ***Microsoft Windows 11 (PowerShell)*** | ***GNU/Linux (Ubuntu 22, Debian 11, Kali 5) (ZSH)*** | ***MacOS 13 (ZSH)*** | Virtual Box (Oracle and Hyper-V).
 
-➤ ✨ My goal is to work as a ***Software Architect***.
+➤ ✨ My aspiration is to evolve into a seasoned ***Software Architect***.
 
-➤ 👯 I’m looking forward to collaborate in a ***Open Source community***.
+➤ 👯 I eagerly anticipate collaborating within the ***Open Source community***.
 
 ---
-### Connect with me:
+### Let's Connect:
 
 <a href="https://www.linkedin.com/in/emanuelpeire/">
 <img align="left" alt="Emanuel Peire LinkedIN" width="24px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
@@ -34,4 +34,3 @@
 <a href="https://www.instagram.com/emapeire/">
 <img align="left" alt="Emanuel Peire Instagram" width="24px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" />
 </a>
-<br/>
