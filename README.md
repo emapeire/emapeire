@@ -10,55 +10,34 @@
 
 ➤ 🧠 Proficient in:
 
-**Web Technologies**
+### Skills and Tools
 
-- Apache Server
-- Chai
-- CSS3
-- Docker and Kubernetes
-- Ethers.js
-- Express
-- HTML5
-- Infura
-- JavaScript
-- Jest
-- Jupyter Notebook
-- MongoDB
-- Mocha
-- Node.js
-- Playwright
-- Python 3 (Anaconda 3)
-- React.js
-- React Native
-- RESTful APIs
-- SQL (MySQL, PostgreSQL)
-- Solidity
-- TypeScript
-- Vitest
+| **Web Technologies**         | **Design Tools**                         | **Environment Tools**                  | **Operating Systems**                        |
+|-----------------------------|------------------------------------------|---------------------------------------|--------------------------------------------|
+| Apache Server               | Adobe Photoshop and Illustrator         | Android Studio                        | GNU/Linux (Ubuntu 22, Debian 11, Kali 5)    |
+| Chai                        | Canva                                    | Git (Bash)                            | MacOS 13 (ZSH)                            |
+| CSS3                        | Figma                                    | Google Docs and Microsoft Office     | Microsoft Windows 11 (PowerShell)         |
+| Docker and Kubernetes      | Miró                                     | Visual Studio Code                   | Virtual Box (Oracle and Hyper-V)         |
+| Ethers.js                   | Notion                                   | Xcode                                 |                                            |
+| Express                     | WordPress                                |                                       |                                            |
+| HTML5                       |                                          |                                       |                                            |
+| Infura                      |                                          |                                       |                                            |
+| JavaScript                  |                                          |                                       |                                            |
+| Jest                        |                                          |                                       |                                            |
+| Jupyter Notebook           |                                          |                                       |                                            |
+| MongoDB                     |                                          |                                       |                                            |
+| Mocha                       |                                          |                                       |                                            |
+| Node.js                     |                                          |                                       |                                            |
+| Playwright                  |                                          |                                       |                                            |
+| Python 3 (Anaconda 3)       |                                          |                                       |                                            |
+| React.js                    |                                          |                                       |                                            |
+| React Native                |                                          |                                       |                                            |
+| RESTful APIs                |                                          |                                       |                                            |
+| SQL (MySQL, PostgreSQL)     |                                          |                                       |                                            |
+| Solidity                    |                                          |                                       |                                            |
+| TypeScript                  |                                          |                                       |                                            |
+| Vitest                      |                                          |                                       |                                            |
 
-**Design Tools**
-
-- Adobe Photoshop and Illustrator
-- Canva
-- Figma
-- Miró
-- Notion
-- WordPress
-
-**Environment Tools**
-
-- Android Studio
-- Git (Bash)
-- Google Docs and Microsoft Office
-- Visual Studio Code
-- Xcode
-
-**Operating Systems**
-
-- GNU/Linux (Ubuntu 22, Debian 11, Kali 5)
-- MacOS 13 (ZSH)
-- Microsoft Windows 11 (PowerShell)
-- Virtual Box (Oracle and Hyper-V)
 
 ➤ ✨ My aspiration is to evolve into a seasoned ***Software Architect***.
 
