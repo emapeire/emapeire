@@ -1,6 +1,6 @@
 ## Welcome to My GitHub Profile! 👋 I'm Emanuel Peire
 
-### Dev | Machine Learning Researcher
+### Dev & Machine Learning Researcher
 
 ⚡ ***Specials facts*** ⚡
 
