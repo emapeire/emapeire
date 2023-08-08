@@ -10,8 +10,6 @@
 
 ➤ 🧠 Proficient in:
 
-### Skills and Tools
-
 | **Web Technologies**         | **Design Tools**                         | **Environment Tools**                  | **Operating Systems**                        |
 |-----------------------------|------------------------------------------|---------------------------------------|--------------------------------------------|
 | Apache Server               | Adobe Photoshop and Illustrator         | Android Studio                        | GNU/Linux (Ubuntu 22, Debian 11, Kali 5)    |
