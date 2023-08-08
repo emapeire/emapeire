@@ -10,19 +10,62 @@
 
 ➤ 🧠 Proficient in:
 
-- **Web tools:** ***HTML5*** | ***CSS3*** | ***JavaScript*** | ***TypeScript*** | ***Node.js*** | ***Express*** | ***React.js*** | ***React Native*** | ***MongoDB*** | ***Python 3*** (Anaconda 3) | SQL (MySQL, ***PostgreSQL***) | Jupyter Notebook | Apache Server | Docker and Kubernetes (AWS and Google Cloud) | ***Playwright*** | ***Chai*** | ***Jest*** | ***Vitest*** | ***Mocha*** | API Rest | Solidity | Hardhat | Ethers.js | Infura | Alchemy | Waffle | Metamask APIs | Java (Kotlin).
+**Web Technologies**
 
-- **Design tools:** ***Adobe Photoshop and Illustrator*** | ***Figma*** | ***Miró*** | ***Notion*** | WordPress | Canva.
+- Apache Server
+- Chai
+- CSS3
+- Docker and Kubernetes
+- Ethers.js
+- Express
+- HTML5
+- Infura
+- JavaScript
+- Jest
+- Jupyter Notebook
+- MongoDB
+- Mocha
+- Node.js
+- Playwright
+- Python 3 (Anaconda 3)
+- React.js
+- React Native
+- RESTful APIs
+- SQL (MySQL, PostgreSQL)
+- Solidity
+- TypeScript
+- Vitest
 
-- **Environment tools:** ***Git (Bash)*** | ***Visual Studio Code*** | ***Xcode*** | ***Android Studio*** | ***Google Docs and Microsoft Office***.
+**Design Tools**
 
-- **Operating Systems:** ***Microsoft Windows 11 (PowerShell)*** | ***GNU/Linux (Ubuntu 22, Debian 11, Kali 5) (ZSH)*** | ***MacOS 13 (ZSH)*** | Virtual Box (Oracle and Hyper-V).
+- Adobe Photoshop and Illustrator
+- Canva
+- Figma
+- Miró
+- Notion
+- WordPress
+
+**Environment Tools**
+
+- Android Studio
+- Git (Bash)
+- Google Docs and Microsoft Office
+- Visual Studio Code
+- Xcode
+
+**Operating Systems**
+
+- GNU/Linux (Ubuntu 22, Debian 11, Kali 5)
+- MacOS 13 (ZSH)
+- Microsoft Windows 11 (PowerShell)
+- Virtual Box (Oracle and Hyper-V)
 
 ➤ ✨ My aspiration is to evolve into a seasoned ***Software Architect***.
 
 ➤ 👯 I eagerly anticipate collaborating within the ***Open Source community***.
 
 ---
+
 ### Let's Connect:
 
 <a href="https://www.linkedin.com/in/emanuelpeire/">
