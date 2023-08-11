@@ -4,7 +4,7 @@
 
 🚀 **Highlights** 🚀
 
-- 🔭 I'm currently immersed in my self-driven project called <a href="https://twitter.com/ep_labs"> **EP LABS** </a>
+- 🔭 I'm currently immersed in my self-driven projects called <a href="https://twitter.com/ep_labs"> **EP Labs** </a> and <a href="https://twitter.com/_deeplink"> **Deep Link Research** </a>
 
 - 🌱 I am deeply engaged in honing my skills in the realm of **Software Development**.
 
