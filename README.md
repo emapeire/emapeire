@@ -39,17 +39,3 @@
 - ✨ My aspiration is to evolve into a seasoned **Software Architect**.
 
 - 👯 I eagerly anticipate collaborating within the **Open Source community**.
-
----
-
-### Let's Connect:
-
-<a href="https://www.linkedin.com/in/emanuelpeire/">
-<img align="left" alt="Emanuel Peire LinkedIN" width="24px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
-</a>
-<a href="https://www.twitter.com/emapeire/">
-<img align="left" alt="Emanuel Peire Twitter" width="24px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
-</a>
-<a href="https://www.instagram.com/emapeire/">
-<img align="left" alt="Emanuel Peire Instagram" width="24px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" />
-</a>
