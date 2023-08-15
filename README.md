@@ -10,30 +10,32 @@
 
 - 🧠 Proficient in:
 
-| **Web Technologies**         | **Design Tools**                         | **Environment Tools**                  | **Operating Systems**                        |
+| **Web Technologies**        | **Design Tools**                         | **Environment Tools**                 | **Operating Systems**                      |
 |-----------------------------|------------------------------------------|---------------------------------------|--------------------------------------------|
-| Apache Server               | Adobe Photoshop and Illustrator         | Android Studio                        | GNU/Linux (Ubuntu, Debian, Kali)    |
-| Chai                        | Canva                                    | Git (Bash)                            | MacOS (ZSH)                            |
-| CSS3                        | Figma                                    | Google Docs and Microsoft Office     | Microsoft Windows (PowerShell)         |
-| Docker and Kubernetes      | Miró                                     | Visual Studio Code                   | Virtual Box (Oracle and Hyper-V)         |
+| Apache Server               | Adobe Photoshop and Illustrator          | Android Studio                        | GNU/Linux (Ubuntu, Debian, Kali)           |
+| Chai                        | Canva                                    | Git (Bash)                            | MacOS (ZSH)                                |
+| CSS3                        | Figma                                    | Google Docs and Microsoft Office      | Microsoft Windows (PowerShell)             |
+| Docker and Kubernetes       | Miró                                     | Visual Studio Code                    | Virtual Box (Oracle and Hyper-V)           |
 | Ethers.js                   | Notion                                   | Xcode                                 |                                            |
 | Express                     | WordPress                                |                                       |                                            |
-| HTML                       |                                          |                                       |                                            |
+| HTML                        |                                          |                                       |                                            |
 | Infura                      |                                          |                                       |                                            |
 | JavaScript                  |                                          |                                       |                                            |
 | Jest                        |                                          |                                       |                                            |
-| Jupyter Notebook           |                                          |                                       |                                            |
+| Jupyter Notebook            |                                          |                                       |                                            |
 | MongoDB                     |                                          |                                       |                                            |
 | Mocha                       |                                          |                                       |                                            |
+| Next.js                     |                                          |                                       |                                            |
 | Node.js                     |                                          |                                       |                                            |
 | Playwright                  |                                          |                                       |                                            |
-| Python (Anaconda)       |                                          |                                       |                                            |
+| Python (Anaconda)           |                                          |                                       |                                            |
 | React.js                    |                                          |                                       |                                            |
 | React Native                |                                          |                                       |                                            |
 | RESTful APIs                |                                          |                                       |                                            |
 | SQL (MySQL, PostgreSQL)     |                                          |                                       |                                            |
 | Solidity                    |                                          |                                       |                                            |
 | TypeScript                  |                                          |                                       |                                            |
+| Vercel                      |                                          |                                       |                                            |
 | Vitest                      |                                          |                                       |                                            |
 
 - ✨ My aspiration is to evolve into a seasoned **Software Architect**.
