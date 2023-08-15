@@ -12,13 +12,13 @@
 
 | **Web Technologies**         | **Design Tools**                         | **Environment Tools**                  | **Operating Systems**                        |
 |-----------------------------|------------------------------------------|---------------------------------------|--------------------------------------------|
-| Apache Server               | Adobe Photoshop and Illustrator         | Android Studio                        | GNU/Linux (Ubuntu 22, Debian 11, Kali 5)    |
-| Chai                        | Canva                                    | Git (Bash)                            | MacOS 13 (ZSH)                            |
-| CSS3                        | Figma                                    | Google Docs and Microsoft Office     | Microsoft Windows 11 (PowerShell)         |
+| Apache Server               | Adobe Photoshop and Illustrator         | Android Studio                        | GNU/Linux (Ubuntu, Debian, Kali)    |
+| Chai                        | Canva                                    | Git (Bash)                            | MacOS (ZSH)                            |
+| CSS3                        | Figma                                    | Google Docs and Microsoft Office     | Microsoft Windows (PowerShell)         |
 | Docker and Kubernetes      | Miró                                     | Visual Studio Code                   | Virtual Box (Oracle and Hyper-V)         |
 | Ethers.js                   | Notion                                   | Xcode                                 |                                            |
 | Express                     | WordPress                                |                                       |                                            |
-| HTML5                       |                                          |                                       |                                            |
+| HTML                       |                                          |                                       |                                            |
 | Infura                      |                                          |                                       |                                            |
 | JavaScript                  |                                          |                                       |                                            |
 | Jest                        |                                          |                                       |                                            |
@@ -27,7 +27,7 @@
 | Mocha                       |                                          |                                       |                                            |
 | Node.js                     |                                          |                                       |                                            |
 | Playwright                  |                                          |                                       |                                            |
-| Python 3 (Anaconda 3)       |                                          |                                       |                                            |
+| Python (Anaconda)       |                                          |                                       |                                            |
 | React.js                    |                                          |                                       |                                            |
 | React Native                |                                          |                                       |                                            |
 | RESTful APIs                |                                          |                                       |                                            |
