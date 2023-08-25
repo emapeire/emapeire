@@ -1,6 +1,6 @@
 ## Welcome to My GitHub Profile! 👋 I'm Emanuel Peire
 
-### Dev & Technical Researcher
+### Open-source software developer and LLMs technical researcher
 
 🚀 **Highlights** 🚀
 
