@@ -4,7 +4,7 @@
 
 🚀 **Highlights** 🚀
 
-- 🔭 I'm currently deeply engaged in my self-driven projects, <a href="https://twitter.com/_hydrogenlabs"> **Hydrogen Labs** </a> and <a href="https://twitter.com/understandjs"> **Understand.js** </a>
+- 🔭 I'm currently deeply engaged in my self-driven projects, <a href="https://twitter.com/hydrogenjs"> **Hydrogen Labs** </a> and <a href="https://twitter.com/understandjs"> **Understand.js** </a>
 
 - 🌱 I am deeply engaged in honing my skills in the realm of **Software Development**.
 
