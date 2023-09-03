@@ -38,6 +38,6 @@
 | Vercel                      |                                          |                                       |                                            |
 | Vitest                      |                                          |                                       |                                            |
 
-- ✨ My aspiration is to evolve into a seasoned **Software Architect**.
+- ✨ My aspiration is to evolve into a seasoned **Software Engineer**.
 
 - 👯 I eagerly anticipate collaborating within the **Open Source community**.
