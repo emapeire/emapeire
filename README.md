@@ -28,12 +28,14 @@
 | Next.js                     |                                          |                                       |                                            |
 | Node.js                     |                                          |                                       |                                            |
 | Playwright                  |                                          |                                       |                                            |
+| Prisma                      |                                          |                                       |                                            |
 | Python (Anaconda)           |                                          |                                       |                                            |
 | React.js                    |                                          |                                       |                                            |
 | React Native                |                                          |                                       |                                            |
 | RESTful APIs                |                                          |                                       |                                            |
 | SQL (MySQL, PostgreSQL)     |                                          |                                       |                                            |
 | Solidity                    |                                          |                                       |                                            |
+| Supabase                    |                                          |                                       |                                            |
 | TypeScript                  |                                          |                                       |                                            |
 | Vercel                      |                                          |                                       |                                            |
 | Vitest                      |                                          |                                       |                                            |
