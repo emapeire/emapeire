@@ -14,7 +14,7 @@
 |-----------------------------|------------------------------------------|---------------------------------------|--------------------------------------------|
 | Apache Server               | Adobe Photoshop and Illustrator          | Android Studio                        | GNU/Linux (Ubuntu, Debian, Kali)           |
 | Chai                        | Canva                                    | Git (Bash)                            | MacOS (ZSH)                                |
-| CSS3                        | Figma                                    | Google Docs and Microsoft Office      | Microsoft Windows (PowerShell)             |
+| CSS                         | Figma                                    | Google Docs and Microsoft Office      | Microsoft Windows (PowerShell)             |
 | Docker and Kubernetes       | Miró                                     | Visual Studio Code                    | Virtual Box (Oracle and Hyper-V)           |
 | Ethers.js                   | Notion                                   | Xcode                                 |                                            |
 | Express                     | WordPress                                |                                       |                                            |
