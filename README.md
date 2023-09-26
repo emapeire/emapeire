@@ -1,12 +1,12 @@
 ## Welcome to My GitHub Profile! 👋 I'm Emanuel Peire
 
-### Open-source software developer and LLMs technical researcher
+### Frontend Engineer, OSS Developer and LLMs technical researcher
 
 🚀 **Highlights** 🚀
 
 - 🔭 I'm currently deeply engaged in my self-driven web development projects with a focus on artificial intelligence.
 
-- 🌱 I am deeply engaged in honing my skills in the realm of **Software Development**.
+- 🌱 I am deeply engaged in honing my skills in the realm of **Next.js technology** to further perfect my abilities.
 
 - 🧠 Proficient in:
 
@@ -40,6 +40,6 @@
 | Vercel                      |                                          |                                       |                                            |
 | Vitest                      |                                          |                                       |                                            |
 
-- ✨ My aspiration is to evolve into a seasoned **Software Engineer**.
+- ✨ My aspiration is to evolve into a seasoned **Frontend Engineer** as I aim to work with Vercel.
 
 - 👯 I eagerly anticipate collaborating within the **Open Source community**.
