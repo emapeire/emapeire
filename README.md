@@ -12,12 +12,13 @@
 
 | **Web Technologies**        | **Design Tools**                         | **Environment Tools**                 | **Operating Systems**                      |
 |-----------------------------|------------------------------------------|---------------------------------------|--------------------------------------------|
-| Apache Server               | Adobe Photoshop and Illustrator          | Android Studio                        | GNU/Linux (Ubuntu, Debian, Kali)           |
-| Chai                        | Canva                                    | Git (Bash)                            | MacOS (ZSH)                                |
-| CSS                         | Figma                                    | Google Docs and Microsoft Office      | Microsoft Windows (PowerShell)             |
-| Docker and Kubernetes       | Miró                                     | Visual Studio Code                    | Virtual Box (Oracle and Hyper-V)           |
-| Ethers.js                   | Notion                                   | Xcode                                 |                                            |
-| Express                     | WordPress                                |                                       |                                            |
+| Apache Server               | Adobe Photoshop and Illustrator          | Android Studio                        | GNU/Linux (Debian, Kali and Ubuntu)        |
+| Astro                       | Canva                                    | Git (Bash)                            | MacOS (ZSH)                                |
+| Chai                        | Figma                                    | Google Docs and Microsoft Office      | Microsoft Windows (PowerShell)             |
+| CSS                         | Miró                                     | Visual Studio Code                    | Virtual Box (Hyper-V, Oracle and UTM)      |
+| Docker                      | Notion                                   | Xcode                                 |                                            |
+| Ethers.js                   | WordPress                                |                                       |                                            |
+| Express                     |                                          |                                       |                                            |
 | HTML                        |                                          |                                       |                                            |
 | Infura                      |                                          |                                       |                                            |
 | JavaScript                  |                                          |                                       |                                            |
@@ -28,6 +29,7 @@
 | Next.js                     |                                          |                                       |                                            |
 | Node.js                     |                                          |                                       |                                            |
 | Playwright                  |                                          |                                       |                                            |
+| Postman                     |                                          |                                       |                                            |
 | Prisma                      |                                          |                                       |                                            |
 | Python (Anaconda)           |                                          |                                       |                                            |
 | React.js                    |                                          |                                       |                                            |
@@ -38,6 +40,7 @@
 | Supabase                    |                                          |                                       |                                            |
 | TypeScript                  |                                          |                                       |                                            |
 | Vercel                      |                                          |                                       |                                            |
+| Vite                        |                                          |                                       |                                            |
 | Vitest                      |                                          |                                       |                                            |
 
 - ✨ My aspiration is to evolve into a seasoned **Frontend Engineer** as I aim to work with Vercel.
