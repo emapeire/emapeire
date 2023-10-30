@@ -14,10 +14,10 @@
 |-----------------------------|------------------------------------------|---------------------------------------|--------------------------------------------|
 | Apache Server               | Adobe Photoshop and Illustrator          | Android Studio                        | GNU/Linux (Debian, Kali and Ubuntu)        |
 | Astro                       | Figma                                    | Git (Bash)                            | MacOS (ZSH)                                |
-| Chai                        | Miró                                     | Google Docs and Microsoft Office      | Microsoft Windows (PowerShell)             |
-| CSS                         | Notion                                   | Visual Studio Code                    | Virtual Box (Hyper-V, Oracle and UTM)      |
-| Docker                      | WordPress                                | Xcode                                 |                                            |
-| Ethers.js                   |                                          |                                       |                                            |
+| Chai                        | Keynote                                  | Google Docs                           | Microsoft Windows (PowerShell)             |
+| CSS                         | Miró                                     | Microsoft Office                      | Virtual Box (Hyper-V, Oracle and UTM)      |
+| Docker                      | Notion                                   | Visual Studio Code                    |                                            |
+| Ethers.js                   | WordPress                                | Xcode                                 |                                            |
 | Express                     |                                          |                                       |                                            |
 | HTML                        |                                          |                                       |                                            |
 | Infura                      |                                          |                                       |                                            |
