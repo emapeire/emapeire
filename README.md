@@ -13,11 +13,11 @@
 | **Web Technologies**        | **Design Tools**                         | **Environment Tools**                 | **Operating Systems**                      |
 |-----------------------------|------------------------------------------|---------------------------------------|--------------------------------------------|
 | Apache Server               | Adobe Photoshop and Illustrator          | Android Studio                        | GNU/Linux (Debian, Kali and Ubuntu)        |
-| Astro                       | Canva                                    | Git (Bash)                            | MacOS (ZSH)                                |
-| Chai                        | Figma                                    | Google Docs and Microsoft Office      | Microsoft Windows (PowerShell)             |
-| CSS                         | Miró                                     | Visual Studio Code                    | Virtual Box (Hyper-V, Oracle and UTM)      |
-| Docker                      | Notion                                   | Xcode                                 |                                            |
-| Ethers.js                   | WordPress                                |                                       |                                            |
+| Astro                       | Figma                                    | Git (Bash)                            | MacOS (ZSH)                                |
+| Chai                        | Miró                                     | Google Docs and Microsoft Office      | Microsoft Windows (PowerShell)             |
+| CSS                         | Notion                                   | Visual Studio Code                    | Virtual Box (Hyper-V, Oracle and UTM)      |
+| Docker                      | WordPress                                | Xcode                                 |                                            |
+| Ethers.js                   |                                          |                                       |                                            |
 | Express                     |                                          |                                       |                                            |
 | HTML                        |                                          |                                       |                                            |
 | Infura                      |                                          |                                       |                                            |
