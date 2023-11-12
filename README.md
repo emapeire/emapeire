@@ -46,4 +46,4 @@
 
 - ✨ My aspiration is to evolve into a seasoned **Frontend Engineer** as I aim to work with Vercel.
 
-- 👯 I eagerly anticipate collaborating within the **Open Source community**.
+- 🤝 I eagerly anticipate collaborating within the **Open Source community**.
