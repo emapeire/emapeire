@@ -38,6 +38,7 @@
 | SQL (MySQL, PostgreSQL)     |                                          |                                       |                                            |
 | Solidity                    |                                          |                                       |                                            |
 | Supabase                    |                                          |                                       |                                            |
+| Three.js                    |                                          |                                       |                                            |
 | TypeScript                  |                                          |                                       |                                            |
 | Vercel                      |                                          |                                       |                                            |
 | Vite                        |                                          |                                       |                                            |
