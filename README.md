@@ -1,6 +1,6 @@
 ## Welcome to My GitHub Profile! 👋 I'm Emanuel Peire
 
-### Frontend Engineer, OSS Developer and LLMs technical researcher
+### Frontend Engineer, OSS Developer, LLMs technical researcher and DX Architect.
 
 🚀 **Highlights** 🚀
 
