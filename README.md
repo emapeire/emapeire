@@ -14,11 +14,11 @@
 |-----------------------------|------------------------------------------|---------------------------------------|------------------------------------------------------|
 | Apache Server               | Adobe Photoshop and Illustrator          | Android Studio                        | GNU/Linux (Debian, Kali and Ubuntu)                  |
 | Astro                       | Figma                                    | Git (Bash)                            | MacOS (ZSH)                                          |
-| Chai                        | Keynote                                  | Google Docs                           | Microsoft Windows (PowerShell)                       |
-| CSS                         | Miró                                     | Microsoft Office                      | Virtual Machines (Hyper-V, Virtual Box and UTM)      |
-| Docker                      | Notion                                   | Visual Studio Code                    |                                                      |
-| Ethers.js                   | WordPress                                | Xcode                                 |                                                      |
-| Express                     |                                          |                                       |                                                      |
+| Chai                        | Framer                                   | Google Docs                           | Microsoft Windows (PowerShell)                       |
+| CSS                         | Keynote                                  | Microsoft Office                      | Virtual Machines (Hyper-V, Virtual Box and UTM)      |
+| Docker                      | Miró                                     | Visual Studio Code                    |                                                      |
+| Ethers.js                   | Notion                                   | Xcode                                 |                                                      |
+| Express                     | WordPress                                |                                       |                                                      |
 | HTML                        |                                          |                                       |                                                      |
 | Infura                      |                                          |                                       |                                                      |
 | JavaScript                  |                                          |                                       |                                                      |
@@ -35,6 +35,7 @@
 | React.js                    |                                          |                                       |                                                      |
 | React Native                |                                          |                                       |                                                      |
 | RESTful APIs                |                                          |                                       |                                                      |
+| Rust                        |                                          |                                       |                                                      |
 | SQL (MySQL, PostgreSQL)     |                                          |                                       |                                                      |
 | Solidity                    |                                          |                                       |                                                      |
 | Supabase                    |                                          |                                       |                                                      |
