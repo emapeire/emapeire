@@ -10,40 +10,40 @@
 
 - 🧠 Proficient in:
 
-| **Web Technologies**        | **Design Tools**                         | **Environment Tools**                 | **Operating Systems**                                |
-|-----------------------------|------------------------------------------|---------------------------------------|------------------------------------------------------|
-| Apache Server               | Adobe Photoshop and Illustrator          | Android Studio                        | GNU/Linux (Debian, Kali and Ubuntu)                  |
-| Astro                       | Figma                                    | Git (Bash)                            | MacOS (ZSH)                                          |
-| Chai                        | Framer                                   | Google Docs                           | Microsoft Windows (PowerShell)                       |
-| CSS                         | Keynote                                  | Microsoft Office                      | Virtual Machines (Hyper-V, Virtual Box and UTM)      |
-| Docker                      | Miró                                     | Visual Studio Code                    |                                                      |
-| Ethers.js                   | Notion                                   | Xcode                                 |                                                      |
-| Express                     | WordPress                                |                                       |                                                      |
-| HTML                        |                                          |                                       |                                                      |
-| Infura                      |                                          |                                       |                                                      |
-| JavaScript                  |                                          |                                       |                                                      |
-| Jest                        |                                          |                                       |                                                      |
-| Jupyter Notebook            |                                          |                                       |                                                      |
-| MongoDB                     |                                          |                                       |                                                      |
-| Mocha                       |                                          |                                       |                                                      |
-| Next.js                     |                                          |                                       |                                                      |
-| Node.js                     |                                          |                                       |                                                      |
-| Playwright                  |                                          |                                       |                                                      |
-| Postman                     |                                          |                                       |                                                      |
-| Prisma                      |                                          |                                       |                                                      |
-| Python (Anaconda)           |                                          |                                       |                                                      |
-| React.js                    |                                          |                                       |                                                      |
-| React Native                |                                          |                                       |                                                      |
-| RESTful APIs                |                                          |                                       |                                                      |
-| Rust                        |                                          |                                       |                                                      |
-| SQL (MySQL, PostgreSQL)     |                                          |                                       |                                                      |
-| Solidity                    |                                          |                                       |                                                      |
-| Supabase                    |                                          |                                       |                                                      |
-| Three.js                    |                                          |                                       |                                                      |
-| TypeScript                  |                                          |                                       |                                                      |
-| Vercel                      |                                          |                                       |                                                      |
-| Vite                        |                                          |                                       |                                                      |
-| Vitest                      |                                          |                                       |                                                      |
+| **Web Technologies**        | **Design Tools**                                 | **Environment Tools**                 | **Operating Systems**                                |
+|-----------------------------|--------------------------------------------------|---------------------------------------|------------------------------------------------------|
+| Apache Server               | Adobe Photoshop and Illustrator                  | Android Studio                        | GNU/Linux (Debian, Kali and Ubuntu)                  |
+| Astro                       | Figma                                            | Git (Bash)                            | MacOS (ZSH)                                          |
+| Chai                        | Framer                                           | Google Docs                           | Microsoft Windows (PowerShell)                       |
+| CSS                         | Keynote                                          | Microsoft Office                      | Virtual Machines (Hyper-V, Virtual Box and UTM)      |
+| Docker                      | Miró                                             | Visual Studio Code                    |                                                      |
+| Ethers.js                   | Notion                                           | Xcode                                 |                                                      |
+| Express                     | Obsidian                                         |                                       |                                                      |
+| HTML                        | BaseHub                                          |                                       |                                                      |
+| Infura                      | WordPress                                        |                                       |                                                      |
+| JavaScript                  |                                                  |                                       |                                                      |
+| Jest                        |                                                  |                                       |                                                      |
+| Jupyter Notebook            |                                                  |                                       |                                                      |
+| MongoDB                     |                                                  |                                       |                                                      |
+| Mocha                       |                                                  |                                       |                                                      |
+| Next.js                     |                                                  |                                       |                                                      |
+| Node.js                     |                                                  |                                       |                                                      |
+| Playwright                  |                                                  |                                       |                                                      |
+| Postman                     |                                                  |                                       |                                                      |
+| Prisma                      |                                                  |                                       |                                                      |
+| Python (Anaconda)           |                                                  |                                       |                                                      |
+| React.js                    |                                                  |                                       |                                                      |
+| React Native                |                                                  |                                       |                                                      |
+| RESTful APIs                |                                                  |                                       |                                                      |
+| Rust                        |                                                  |                                       |                                                      |
+| SQL (MySQL, PostgreSQL)     |                                                  |                                       |                                                      |
+| Solidity                    |                                                  |                                       |                                                      |
+| Supabase                    |                                                  |                                       |                                                      |
+| Three.js                    |                                                  |                                       |                                                      |
+| TypeScript                  |                                                  |                                       |                                                      |
+| Vercel                      |                                                  |                                       |                                                      |
+| Vite                        |                                                  |                                       |                                                      |
+| Vitest                      |                                                  |                                       |                                                      |
 
 - ✨ My aspiration is to evolve into a seasoned **Frontend Engineer** as I aim to work with Vercel.
 
