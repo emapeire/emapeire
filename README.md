@@ -14,13 +14,14 @@
 |-----------------------------|--------------------------------------------------|---------------------------------------|------------------------------------------------------|
 | Apache Server               | Adobe Photoshop and Illustrator                  | Android Studio                        | GNU/Linux (Debian, Kali and Ubuntu)                  |
 | Astro                       | Figma                                            | Git (Bash)                            | MacOS (ZSH)                                          |
-| Chai                        | Framer                                           | Google Docs                           | Microsoft Windows (PowerShell)                       |
-| CSS                         | Keynote                                          | Microsoft Office                      | Virtual Machines (Hyper-V, Virtual Box and UTM)      |
-| Docker                      | Miró                                             | Visual Studio Code                    |                                                      |
-| Ethers.js                   | Notion                                           | Xcode                                 |                                                      |
-| Express                     | Obsidian                                         |                                       |                                                      |
-| HTML                        | BaseHub                                          |                                       |                                                      |
-| Infura                      | WordPress                                        |                                       |                                                      |
+| Bun                         | Framer                                           | Google Docs                           | Microsoft Windows (PowerShell)                       |
+| Chai                        | Keynote                                          | Microsoft Office                      | Virtual Machines (Hyper-V, Virtual Box and UTM)      |
+| CSS                         | Miró                                             | Visual Studio Code                    |                                                      |
+| Docker                      | Notion                                           | Xcode                                 |                                                      |
+| Ethers.js                   | Obsidian                                         |                                       |                                                      |
+| Express                     | BaseHub                                          |                                       |                                                      |
+| HTML                        | WordPress                                        |                                       |                                                      |
+| Infura                      |                                                  |                                       |                                                      |
 | JavaScript                  |                                                  |                                       |                                                      |
 | Jest                        |                                                  |                                       |                                                      |
 | Jupyter Notebook            |                                                  |                                       |                                                      |
@@ -28,7 +29,9 @@
 | Mocha                       |                                                  |                                       |                                                      |
 | Next.js                     |                                                  |                                       |                                                      |
 | Node.js                     |                                                  |                                       |                                                      |
+| NPM                         |                                                  |                                       |                                                      |
 | Playwright                  |                                                  |                                       |                                                      |
+| PNPM                        |                                                  |                                       |                                                      |
 | Postman                     |                                                  |                                       |                                                      |
 | Prisma                      |                                                  |                                       |                                                      |
 | Python (Anaconda)           |                                                  |                                       |                                                      |
@@ -44,6 +47,7 @@
 | Vercel                      |                                                  |                                       |                                                      |
 | Vite                        |                                                  |                                       |                                                      |
 | Vitest                      |                                                  |                                       |                                                      |
+| Yarn                        |                                                  |                                       |                                                      |
 
 - ✨ My aspiration is to evolve into a seasoned **Frontend Engineer** as I aim to work with Vercel.
 
