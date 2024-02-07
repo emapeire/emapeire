@@ -1,5 +1,12 @@
 ## Welcome to My GitHub Profile! 👋 I'm Emanuel Peire
 
+### My Setup ✨
+
+<p align="left">
+  <img src="https://github.com/emapeire/emapeire/assets/63935846/5ddf8539-eb00-4032-aadb-df3292481752" height="400"/>
+  <img src="https://github.com/emapeire/emapeire/assets/63935846/b11df29a-53f8-4ca6-8d82-d2d2c81ada4e" height="400"/>
+</p>
+
 ### Frontend Engineer, OSS Developer, LLMs technical researcher and DX Architect.
 
 🚀 **Highlights** 🚀
