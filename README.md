@@ -1,6 +1,6 @@
 ## Welcome to My GitHub Profile! 👋 I'm Emanuel Peire
 
-### My Workspace: where I work everyday ✨
+### 💻 My Workspace: where I work everyday
 
 <p align="left">
   <img src="https://github.com/emapeire/emapeire/assets/63935846/5ddf8539-eb00-4032-aadb-df3292481752" alt="My humble setup, pt. 1" height="400"/>
