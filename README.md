@@ -19,42 +19,54 @@
 
 | **Web Technologies**        | **Design Tools**                                 | **Environment Tools**                 | **Operating Systems**                                |
 |-----------------------------|--------------------------------------------------|---------------------------------------|------------------------------------------------------|
-| Apache Server               | Adobe Photoshop and Illustrator                  | Android Studio                        | GNU/Linux (Debian, Kali and Ubuntu)                  |
-| Astro                       | Figma                                            | Git (Bash)                            | MacOS (ZSH)                                          |
-| Bun                         | Framer                                           | Google Docs                           | Microsoft Windows (PowerShell)                       |
-| Chai                        | Keynote                                          | Microsoft Office                      | Virtual Machines (Hyper-V, Virtual Box and UTM)      |
-| CSS                         | Miró                                             | Visual Studio Code                    |                                                      |
-| Docker                      | Notion                                           | Xcode                                 |                                                      |
-| Ethers.js                   | Obsidian                                         |                                       |                                                      |
-| Express                     | BaseHub                                          |                                       |                                                      |
-| HTML                        | WordPress                                        |                                       |                                                      |
+| Apache Server               | Adobe Photoshop and Illustrator                  | Android Studio                        | GNU/Linux (Debian, Kali y Ubuntu)                    |
+| Astro                       | BaseHub                                          | Git (Bash)                            | MacOS (ZSH)                                          |
+| Bun                         | Canva                                            | Google Docs                           | Microsoft Windows (PowerShell)                       |
+| Chai                        | Figma                                            | Microsoft Office                      | Virtual Machines (Hyper-V, Virtual Box y UTM)        |
+| CSS                         | Framer                                           | Visual Studio Code                    |                                                      |
+| Docker                      | Keynote                                          | Xcode                                 |                                                      |
+| ESbuild                     | Miró                                             |                                       |                                                      |
+| Ethers.js                   | Notion                                           |                                       |                                                      |
+| Express                     | Obsidian                                         |                                       |                                                      |
+| GraphQL                     | WordPress                                        |                                       |                                                      |
+| HTML                        |                                                  |                                       |                                                      |
 | Infura                      |                                                  |                                       |                                                      |
 | JavaScript                  |                                                  |                                       |                                                      |
 | Jest                        |                                                  |                                       |                                                      |
 | Jupyter Notebook            |                                                  |                                       |                                                      |
+| Material UI                 |                                                  |                                       |                                                      |
 | MongoDB                     |                                                  |                                       |                                                      |
 | Mocha                       |                                                  |                                       |                                                      |
 | Next.js                     |                                                  |                                       |                                                      |
 | Node.js                     |                                                  |                                       |                                                      |
 | NPM                         |                                                  |                                       |                                                      |
+| PHP                         |                                                  |                                       |                                                      |
 | Playwright                  |                                                  |                                       |                                                      |
 | PNPM                        |                                                  |                                       |                                                      |
 | Postman                     |                                                  |                                       |                                                      |
 | Prisma                      |                                                  |                                       |                                                      |
 | Python (Anaconda)           |                                                  |                                       |                                                      |
-| React.js                    |                                                  |                                       |                                                      |
+| Radix UI                    |                                                  |                                       |                                                      |
 | React Native                |                                                  |                                       |                                                      |
+| React.js                    |                                                  |                                       |                                                      |
+| Redux                       |                                                  |                                       |                                                      |
 | RESTful APIs                |                                                  |                                       |                                                      |
 | Rust                        |                                                  |                                       |                                                      |
 | SQL (MySQL, PostgreSQL)     |                                                  |                                       |                                                      |
+| Svelte                      |                                                  |                                       |                                                      |
+| Shadcn/UI                   |                                                  |                                       |                                                      |
 | Solidity                    |                                                  |                                       |                                                      |
 | Supabase                    |                                                  |                                       |                                                      |
+| Tailwind                    |                                                  |                                       |                                                      |
+| TansTack Query              |                                                  |                                       |                                                      |
 | Three.js                    |                                                  |                                       |                                                      |
 | TypeScript                  |                                                  |                                       |                                                      |
 | Vercel                      |                                                  |                                       |                                                      |
 | Vite                        |                                                  |                                       |                                                      |
 | Vitest                      |                                                  |                                       |                                                      |
+| Webpack                     |                                                  |                                       |                                                      |
 | Yarn                        |                                                  |                                       |                                                      |
+| Zustand                     |                                                  |                                       |                                                      |
 
 - ✨ My aspiration is to evolve into a seasoned **Frontend Engineer** as I aim to work with Vercel.
 
