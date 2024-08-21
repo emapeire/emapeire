@@ -1,8 +1,6 @@
 ## Welcome to My GitHub Profile! 👋 I'm Emanuel Peire
 
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/1f1c9a20-aaaf-4140-9ee9-ff25687b4242" alt="Cover"/>
-</p>
+![Cover](https://github.com/user-attachments/assets/1f1c9a20-aaaf-4140-9ee9-ff25687b4242)
 
 ### Frontend Engineer, Developer Relations and AI research enthusiast. Always influenced by design.
 
