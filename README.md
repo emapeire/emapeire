@@ -69,6 +69,6 @@
 
 ---
 
-![Emanuel Peire's GitHub stats](https://github-readme-stats.vercel.app/api?username=emapeire&show_icons=true&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged)
+![Emanuel Peire's GitHub stats](https://github-readme-stats.vercel.app/api?username=emapeire&show_icons=true&theme=dark&show=reviews,discussions_started,prs_merged)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emapeire&langs_count=5)
